@@ -31,6 +31,4 @@
 　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
   　＼二つ                λ   
 ```
-<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
-<a href=”https://www.linkedin.com/in/mew13/"><img align=”left” src=”https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
