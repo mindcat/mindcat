@@ -22,7 +22,7 @@
 <a href="https://www.julialang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/julia.svg" alt="Julia Website" height="40px"/></a>
 <a href="https://www.rust-lang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/rust.svg" alt="Rust Website" height="40px"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/c.svg" alt="C Wikipedia" height="40px"/></a>
-<a href="https://www.latex-project.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/latex.svg" alt="LaTeX Website" height="40px"/></a>
+<a href="https://www.latex-project.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/tex.svg" alt="LaTeX Website" height="40px"/></a>
 <a href="https://www.python.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/py.svg" alt="Python Website" height="40px"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/html.svg" alt="HTML5 Wikipedia" height="40px"/></a>
 <a href="https://www.google.com/search?q=why+I+should+use+anything+except+java+and+its+OOP+hell+that+perverts+the+art+of+programming"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/java.svg" alt="Java Website" height="40px"/></a>
