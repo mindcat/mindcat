@@ -31,4 +31,4 @@
 　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
   　＼二つ                λ   
 ```
-[LinkedIn](https://www.linkedin.com/in/mew13/)
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})[LinkedIn](https://www.linkedin.com/in/mew13/)
