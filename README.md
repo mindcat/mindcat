@@ -11,8 +11,7 @@
                   /|                            & русский язык), 
                  (/                        
 ```
-عَرَبِيّ
-عَرَب
+
 ### Tools & Languages
 ```
      zzz   |\      _,,,--,,_         ______          __       \\
@@ -63,12 +62,18 @@ I'm a full stack software engineer and passionate computer scientist with divers
 *[Stellarly](https://github.com/mindcat/brickhack9)*
 > Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@aln4739](https://github.com/aln4739). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. 
 
-*[]()*
+*[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
+> An exercise in exampling the syntax and functionality of several different languages.
 
+*[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
+> A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
+
+<!-- *[Brain](https://github.com/mindcat/brain)* -->
+<!-- > An exercise in exampling the syntax and functionality of several different languages. -->
 
 **Interesting**
 
 ```math
-y_k =  \varphi \left( \sum_{j=0}^{m} w_{kj} x_j \right)$
+y_k =  \varphi \left( \sum_{j=0}^{m} w_{kj} x_j \right)
 ```
 
