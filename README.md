@@ -61,7 +61,7 @@ I'm a full stack software engineer and passionate computer scientist with divers
 **In Progress**
 
 *[Stellarly](https://github.com/mindcat/brickhack9)*
-> Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@aln4739](https://github.com/aln4739). Plan to refactor math currently in the frontend js into the much faster, understandable julia backend. 
+> Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@aln4739](https://github.com/aln4739). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. 
 
 *[]()*
 
