@@ -44,4 +44,10 @@ I'm a full stack software engineer and passionate computer scientist with divers
 　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
   　＼二つ                λ   
 ```
-<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" width="40px"/></a> 
+<a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" width="40px"/></a> 
+[🐈](https://www.google.com/search?q=kittens+adorable ) ...
+
+[Computer Science Resume](https://github.com/mindcat/media_repository/blob/main/profile/cs_resume.pdf)
+
+[Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
