@@ -8,7 +8,7 @@
    ( /   /              (/                      functional programming, neuromorphic computing, 
     / / /__,  _   _,  _  _ _   __,  _           astrophysics, philosophy (hegel -> baudrillard),
    (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, française, عَرَبِيّ، 汉语，አማርኛ,
-                  /|                            & русский язык), 
+                  /|                            & русский язык, Ἑλληνική), 
                  (/                        
 ```
 
@@ -45,8 +45,8 @@ I'm a full stack software engineer and passionate computer scientist with divers
 　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
   　＼二つ                λ   
 ```
-<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" width="40px"/></a> 
-<a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" width="40px"/></a> 
+<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a> 
+<a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" height="40px"/></a> 
 [🐈](https://www.google.com/search?q=kittens+adorable ) 
 
 ...
@@ -56,22 +56,31 @@ I'm a full stack software engineer and passionate computer scientist with divers
 [Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
 
 #### Projects
+##### Complete
 
-**In Progress**
+*[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
+> A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
+
+##### In Progress
 
 *[Stellarly](https://github.com/mindcat/brickhack9)*
 > Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@aln4739](https://github.com/aln4739). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. 
 
 *[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
-> An exercise in exampling the syntax and functionality of several different languages.
+> An exercise in demonstrating the syntax and functionality of several different languages.
 
-*[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
-> A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
+##### Planned
+
+*[Chess PCB](https://github.com/mindcat/pccb)*
+> "Printed Chess Circuit Board" -- microcontroller powered chess algorithm (rust) on a custom chess pcb.
+
+<!-- *[tbd](https://github.com/mindcat/tbd)*
+> Something in swift. -->
 
 <!-- *[Brain](https://github.com/mindcat/brain)* -->
 <!-- > An exercise in exampling the syntax and functionality of several different languages. -->
 
-**Interesting**
+#### Interesting
 
 ```math
 y_k =  \varphi \left( \sum_{j=0}^{m} w_{kj} x_j \right)
