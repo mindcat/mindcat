@@ -80,8 +80,8 @@ I'm a full stack software engineer and passionate computer scientist with divers
 *[Peculiar Allure](https://github.com/mindcat/)*
 > "Visualizing Strange Attractors" -- An experiment in getting familiar with the matrix and visualization capabilities of Julia (and my own love of linear algebra) to model a number of diverse attractors with fractal characteristic (famously Lorenz <ρ = 28, σ = 10, β = 8/3>, Rössler <ρ = 1/5, σ = 1/5, β = 5.7>). Additionally, there a number of normative attractors. 
 
-*[](https://github.com/mindcat/)*
-> "" -- 
+*[Think Linear](https://github.com/mindcat/)*
+> "Linear Algebra Textbook in LaTeX" -- A companion to the MATH-241 course at RIT based off of my in class notes to provide reference material for a class without slides and as notes for accessibility. 
 
 <!-- *[tbd](https://github.com/mindcat/tbd)*
 > Something in swift. -->
