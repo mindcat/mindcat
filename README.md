@@ -86,8 +86,18 @@ I'm a full stack software engineer and passionate computer scientist with divers
 *[VFD](https://github.com/mindcat/vfd)*
 > "Homemade Vacuum Fluorescent Display" -- microcontroller on a custom pcb running a from-scratch vacuum fluorescent display. 
 
+*[Philosophy Club Website](https://github.com/mindcat/philclubsite)*
+> "Official Philsophy Club Website" -- 
+
+*[Flipper Zero IR Remote](https://github.com/mindcat/flippIR)*
+> "" --
+
 *[Calculator](https://github.com/mindcat/curta)*
 > "Curta Calculator Swift App" -- iOS application that emulates a curta calculator.
+
+*[](https://github.com/mindcat/)*
+> "" --
+
 
 <!-- *[Brain](https://github.com/mindcat/brain)* -->
 <!-- > An exercise in exampling the syntax and functionality of several different languages. -->
