@@ -78,7 +78,7 @@ I'm a full stack software engineer and passionate computer scientist with divers
 > "Ensemble Learning Language Identification" -- A from-scratch machine learning implementation in Julia that can train models (decision trees of binary feature functions) on labeled excerpts from Wikipedia. Compares precise strong predictors (relying on function word identification) with AdaBoosted weak predictors designed for general language use. Should support Polish, French, Spanish, English, Dutch, German, Portuguese, Czech, and Danish.  
 
 *[Peculiar Allure](https://github.com/mindcat/)*
-> "Visualizing Strange Attractors" -- An experiment in getting familiar with the matrix and visualization capabilities of Julia (and my own love of linear algebra) to model a number of diverse attractors with fractal characteristic (famously Lorenz <ρ = 28, σ = 10, β = 8/3>, Rössler <ρ = 1/5, σ = 1/5, β = 5.7>). Additionally, there a number of normative attractors. 
+> "Visualizing Strange Attractors" -- An experiment in getting familiar with the matrix and visualization capabilities of Julia (and my own love of linear algebra) to model a number of diverse attractors with fractal characteristic (famously Lorenz <ρ = 28, σ = 10, β = 8/3>, Rössler <ρ = 1/5, σ = 1/5, β = 5.7>). Additionally, there's a number of normative attractors. 
 
 *[Think Linear](https://github.com/mindcat/linear)*
 > "Linear Algebra Textbook in LaTeX" -- A companion to the MATH-241 course at RIT based off of my in class notes to provide reference material for a class without slides and as notes for accessibility. 
