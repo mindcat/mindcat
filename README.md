@@ -7,8 +7,8 @@
     __    _              /)                                `-._,_)'      ``--...____..-'
    ( /   /              (/                      functional programming, neuromorphic computing, 
     / / /__,  _   _,  _  _ _   __,  _           astrophysics, philosophy (hegel -> baudrillard),
-   (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, française, عَرَبِيّ، 汉语，አማርኛ,
-                  /|                            & русский язык, Ἑλληνική), Kaleckian econometrics,
+   (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, française, عَرَبِيّ, 汉语，አማርኛ,
+                  /|                            & русский язык), Kaleckian econometrics,
                  (/                        
 ```
 
