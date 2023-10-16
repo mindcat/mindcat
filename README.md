@@ -34,7 +34,7 @@
 I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
 ### Links & Projects
 ```
-              ＿＿       λ    _   _ __  _ _  __ __    __,       
+             ＿＿       λ    _   _ __  _ _  __ __    __,       
 　　　  　　/ ＞　　フ     λ   | | | |  \| | |/ /' _/  (_ /_      
 　　  　　　| 　_　 _l    λ   | |_| | | ' |   <`._`.  /`X\/ |    
 　   　　　／` ミ＿☭ノ     λ  |___|_|_|\__|_|\_\___/ `\_/\| |    
