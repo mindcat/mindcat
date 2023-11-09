@@ -1,4 +1,4 @@
-### I am...
+## I am...
 ```
     _ _ _    ______   _                                  __..--''``---....___   _..._    __
    ( / ) )  (  /     //o   o       /                 _.-'    .-/";  `        ``<._  ``.''_ `.
@@ -8,11 +8,11 @@
    ( /   /              (/                      functional programming, neuromorphic computing, 
     / / /__,  _   _,  _  _ _   __,  _           astrophysics, philosophy (hegel -> baudrillard),
    (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, française, عَرَبِيّ, 汉语，አማርኛ,
-                  /|                            & русский язык), Kaleckian econometrics,
+                  /|                            & русский язык), Kaleckian econometrics...
                  (/                        
 ```
 
-### Tools & Languages
+## Tools & Languages
 ```
      zzz   |\      _,,,--,,_         ______          __       \\
         \  /,`.-'`'   ._  \-;;,_    /_  __/__  ___  / /__      λ\
@@ -32,7 +32,7 @@
 ...et cetera
 
 I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
-### Links & Projects
+## Links & Projects
 ```
              ＿＿       λ    _   _ __  _ _  __ __    __,       
 　　　  　　/ ＞　　フ     λ   | | | |  \| | |/ /' _/  (_ /_      
@@ -45,9 +45,8 @@ I'm a full stack software engineer and passionate computer scientist with divers
 　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
   　＼二つ                λ   
 ```
-<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a> 
+<a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a>
 <a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" height="40px"/></a> 
-[🐈](https://www.google.com/search?q=kittens+adorable ) 
 
 ...
 
@@ -55,7 +54,11 @@ I'm a full stack software engineer and passionate computer scientist with divers
 
 [Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
 
+#### Philosophy
+[Main Article](https://github.com/mindcat/mindcat/blob/main/philosophy.md)
+
 #### Projects
+[Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md)
 ##### Complete
 
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
