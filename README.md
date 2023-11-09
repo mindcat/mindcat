@@ -34,16 +34,16 @@
 I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
 ## Links & Projects
 ```
-             ＿＿       λ    _   _ __  _ _  __ __    __,       
-　　　  　　/ ＞　　フ     λ   | | | |  \| | |/ /' _/  (_ /_      
-　　  　　　| 　_　 _l    λ   | |_| | | ' |   <`._`.  /`X\/ |    
-　   　　　／` ミ＿☭ノ     λ  |___|_|_|\__|_|\_\___/ `\_/\| |    
-　　 　   /　　　 　 |     λ    
-　　  　 /　 ヽ　　 ﾉ      λ   ___ ___  __ __  ___ ________  __  
-　   　 │　　|　|　|      λ   | _,\ _ \/__\_ \| __/ _/_   _/' _/ 
-  　／￣|　　 |　| |      λ   | v_/ v / \/ |\ | _| \__ | | `._`. 
-　  | (￣ヽ＿ヽ)__)       λ   |_| |_|_\\__/___|___\__/ |_| |___/
-  　＼二つ                λ   
+    _   _ __  _ _  __ __    __,           λ             ＿＿   
+   | | | |  \| | |/ /' _/  (_ /_          λ　　　  　　/ ＞　　フ
+   | |_| | | ' |   <`._`.  /`X\/ |        λ　　  　　　| 　_　 _l 
+   |___|_|_|\__|_|\_\___/ `\_/\| |        λ　   　　　／` ミ＿☭ノ  
+                                          λ　　 　   /　　　 　 | 
+    ___ ___  __ __  ___ ________  __      λ　　  　 /　 ヽ　　 ﾉ  
+   | _,\ _ \/__\_ \| __/ _/_   _/' _/     λ　   　 │　　|　|　|    
+   | v_/ v / \/ |\ | _| \__ | | `._`.     λ  　／￣|　　 |　| |  
+   |_| |_|_\\__/___|___\__/ |_| |___/     λ　  | (￣ヽ＿ヽ)__)  
+                                             　＼二つ          
 ```
 <a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a>
 <a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" height="40px"/></a> 
