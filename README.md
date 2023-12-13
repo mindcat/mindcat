@@ -29,7 +29,9 @@
 <a href="https://www.google.com/search?q=why+I+should+use+anything+except+java+and+its+OOP+hell+that+perverts+the+art+of+programming"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/java.svg" alt="Java Website" height="40px"/></a>
 <a href="https://www.google.com/search?q=why+javascript+is+the+only+language+worse+than+java"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/js.svg" alt="JavaScript Website" height="40px"/></a>
 
+
 ...et cetera
+
 
 I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
 ## Links & Projects
