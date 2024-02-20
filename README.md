@@ -83,10 +83,10 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 ##### Planned
 
 *[Chess PCB](https://github.com/mindcat/pccb)*
-> "Printed Chess Circuit Board" -- microcontroller powered chess algorithm (rust) on a custom chess pcb.
+> "Printed Chess Circuit Board" -- microcontroller powered chess algorithm (rust) on a custom chess board pcb. Practice with embedded Rust and the pecularities required with addressing IO and safely utilizing unsafe Rust at the firmware level. 
 
 *[ELLI](https://github.com/mindcat/elli)*
-> "Ensemble Learning Language Identification" -- A from-scratch machine learning implementation in Julia that can train models (decision trees of binary feature functions) on labeled excerpts from Wikipedia. Compares precise strong predictors (relying on function word identification) with AdaBoosted weak predictors designed for general language use. Should support Polish, French, Spanish, English, Dutch, German, Portuguese, Czech, and Danish.  
+> "Ensemble Learning Language Identification" -- A from-scratch machine learning implementation in Julia that can train models (decision trees of binary feature functions) on labeled excerpts from Wikipedia. Compares precise strong predictors (relying on function word identification) with AdaBoosted weak predictors designed for general language use. Should support Polish, French, Spanish, English, Dutch, German, Portuguese, Czech, and Danish.  <- this is really just an expansion of an AI binary tree project, porting it from Python to Julia and increasing the number of languages it can identify and discern between. 
 
 *[Peculiar Allure](https://github.com/mindcat/)*
 > "Visualizing Strange Attractors" -- An experiment in getting familiar with the matrix and visualization capabilities of Julia (and my own love of linear algebra) to model a number of diverse attractors with fractal characteristic (famously Lorenz <ρ = 28, σ = 10, β = 8/3>, Rössler <ρ = 1/5, σ = 1/5, β = 5.7>). Additionally, there's a number of normative attractors. 
