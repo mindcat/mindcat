@@ -32,6 +32,7 @@
   
 ...
 
+...
 
 
 I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
