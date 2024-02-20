@@ -63,8 +63,9 @@ I'm a full stack software engineer and passionate computer scientist with divers
 #### Philosophy
 [Main Article](https://github.com/mindcat/mindcat/blob/main/philosophy.md)
 
-#### Projects
-[Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md)
+<!-- #### Projects
+[Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md) -->
+
 ##### Complete
 
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
@@ -73,7 +74,7 @@ I'm a full stack software engineer and passionate computer scientist with divers
 ##### In Progress
 
 *[Stellarly](https://github.com/mindcat/brickhack9)*
-> Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. 
+> Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. *abandoned*
 
 *[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
 > An exercise in demonstrating the syntax and functionality of several different languages.
@@ -89,23 +90,26 @@ I'm a full stack software engineer and passionate computer scientist with divers
 *[Peculiar Allure](https://github.com/mindcat/)*
 > "Visualizing Strange Attractors" -- An experiment in getting familiar with the matrix and visualization capabilities of Julia (and my own love of linear algebra) to model a number of diverse attractors with fractal characteristic (famously Lorenz <ρ = 28, σ = 10, β = 8/3>, Rössler <ρ = 1/5, σ = 1/5, β = 5.7>). Additionally, there's a number of normative attractors. 
 
-*[Think Linear](https://github.com/mindcat/linear)*
+*[Linear 241](https://github.com/mindcat/linear)*
 > "Linear Algebra Textbook in LaTeX" -- A companion to the MATH-241 course at RIT based off of my in class notes to provide reference material for a class without slides and as notes for accessibility. 
+
+*[Quantum 251](https://github.com/mindcat/linear)*
+> "Principles and Applications of Quantum Technologies Textbook in LaTeX" -- A companion to the PHYS-251 course at RIT based off of my in class notes to provide reference material for a class without slides and as notes for accessibility. 
 
 *[VFD](https://github.com/mindcat/vfd)*
 > "Homemade Vacuum Fluorescent Display" -- microcontroller on a custom pcb running a from-scratch vacuum fluorescent display. 
 
-*[Philosophy Club Website](https://github.com/mindcat/philclubsite)*
+<!-- *[Philosophy Club Website](https://github.com/mindcat/philclubsite)*
 > "Official Philsophy Club Website" -- 
 
 *[Flipper Zero IR Remote](https://github.com/mindcat/flippIR)*
-> "" --
+> "" -- -->
 
 *[Calculator](https://github.com/mindcat/curta)*
 > "Curta Calculator Swift App" -- iOS application that emulates a curta calculator.
 
-*[](https://github.com/mindcat/)*
-> "" --
+<!-- *[](https://github.com/mindcat/)*
+> "" -- -->
 
 
 <!-- *[Brain](https://github.com/mindcat/brain)* -->
