@@ -30,7 +30,7 @@
 <a href="https://www.google.com/search?q=why+javascript+is+the+only+language+worse+than+java"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/js.svg" alt="JavaScript Website" height="40px"/></a>  
   
   
-...et cetera  
+...
 
 
 
