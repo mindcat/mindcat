@@ -37,7 +37,8 @@
 ...  
 
 
-I'm a full stack software engineer and passionate computer scientist with diverse experience with everything from machine learning (my degree focus) to web development and embedded software. 
+I'm a full stack software engineer and passionate computer scientist with a breadth of expertise that includes machine learning, embedded software, functional programming, web development and hardware hacking. 
+
 ## Links & Projects
 ```
     _   _ __  _ _  __ __    __,           λ             ＿＿   
