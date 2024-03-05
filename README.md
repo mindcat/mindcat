@@ -30,11 +30,8 @@
 <a href="https://www.google.com/search?q=why+javascript+is+the+only+language+worse+than+java"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/js.svg" alt="JavaScript Website" height="40px"/></a>  
   
   
-...  
-
-...  
-
-...  
+---
+---
 
 
 I'm a full stack software engineer and passionate computer scientist with a breadth of expertise that includes machine learning, embedded software, functional programming, web development and hardware hacking. 
@@ -55,6 +52,7 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 <a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a>
 <a href="mailto:m.elijah.wn@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/mail.svg" alt="M. Elijah Wangeman | E-Mail" height="40px"/></a> 
 
+---
 ---
 
 [Computer Science Resume](https://github.com/mindcat/media_repository/blob/main/profile/cs_resume.pdf)
