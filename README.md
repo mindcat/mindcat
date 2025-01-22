@@ -59,8 +59,8 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 
 [Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
 
-#### Philosophy
-[Main Article](https://github.com/mindcat/mindcat/blob/main/philosophy.md)
+<!-- #### Philosophy
+[Main Article](https://github.com/mindcat/mindcat/blob/main/philosophy.md) -->
 
 <!-- #### Projects
 [Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md) -->
@@ -72,15 +72,18 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 
 ##### In Progress
 
+*[Vitri](https://github.com/mindcat/bigredhacks?tab=readme-ov-file#project-description)*
+> Made for the Cornell hackathon, [BrickHack 9](https://devpost.com/software/best-ever-favorite-location-journal) with [@anhnlh](https://github.com/anhnlh). Gave us some solid experience in cross-platform mobile development, and we ended up liking the result (conceptually) so much we've continued building it out, with plans to release it for iOS and Android, if only so we can be the only ones to use it!
+
 *[Stellarly](https://github.com/mindcat/brickhack9)*
-> Made for a hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. *abandoned*
+> Made for the RIT hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. *abandoned*
 
 *[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
 > An exercise in demonstrating the syntax and functionality of several different languages.
 
 ##### Planned
 
-*[Chess PCB](https://github.com/mindcat/pccb)*
+<!-- *[Chess PCB](https://github.com/mindcat/pccb)*
 > "Printed Chess Circuit Board" -- microcontroller powered chess algorithm (rust) on a custom chess board pcb. Practice with embedded Rust and the pecularities required with addressing IO and safely utilizing unsafe Rust at the firmware level. 
 
 *[ELLI](https://github.com/mindcat/elli)*
@@ -107,7 +110,7 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 *[Calculator](https://github.com/mindcat/curta)*
 > "Curta Calculator Swift App" -- iOS application that emulates a curta calculator.
 
-<!-- *[](https://github.com/mindcat/)*
+*[](https://github.com/mindcat/)*
 > "" -- -->
 
 
