@@ -65,6 +65,9 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 <!-- #### Projects
 [Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md) -->
 
+10/13/25 - the below is a solid few years out of date. I have 3 projects I really need to clean up enough to add to the list, leaving this as a reminder to myself...
+
+
 ##### Complete
 
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
@@ -78,8 +81,8 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 *[Stellarly](https://github.com/mindcat/brickhack9)*
 > Made for the RIT hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. *abandoned*
 
-*[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
-> An exercise in demonstrating the syntax and functionality of several different languages.
+<!-- *[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
+> An exercise in demonstrating the syntax and functionality of several different languages. -->
 
 ##### Planned
 
@@ -105,7 +108,7 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 > "Official Philsophy Club Website" -- 
 
 *[Flipper Zero IR Remote](https://github.com/mindcat/flippIR)*
-> "" -- -->
+> "" --
 
 *[Calculator](https://github.com/mindcat/curta)*
 > "Curta Calculator Swift App" -- iOS application that emulates a curta calculator.
