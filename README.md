@@ -5,10 +5,10 @@
     / / /     /--   //,   ,  __,  /_             _.-' _..--.'_    \                    `( ) )
    / / (_o  (/____/(/_(__/|_(_/(_/ /_           (_..-'    (< _     ;_..__               ; `'
     __    _              /)                                `-._,_)'      ``--...____..-'
-   ( /   /              (/                      functional programming, neuromorphic computing, 
+   ( /   /              (/                      functional programming, neuromorphic & quantum, 
     / / /__,  _   _,  _  _ _   __,  _           astrophysics, philosophy (hegel -> baudrillard),
-   (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, française, عَرَبِيّ, 汉语，አማርኛ,
-                  /|                            & русский язык), Kaleckian econometrics...
+   (_/_/(_/(_/ /_(_)_(/_/ / /_(_/(_/ /_         linguistics (polski, العربية, 汉语，toki pona, &
+                  /|                            አማርኛ), Kaleckian econometrics...
                  (/                        
 ```
 
@@ -33,20 +33,29 @@
 ---
 ---
 
+I'm an electrical & computer engineering PhD student researching quantum compilation, error correction, & routing, who is especially interested in the future of qubits (neutral atom, topological, & cat) and quantum devices (QPICs, superconducting, and robust, possibly multi-platform, quantum architectures). 
 
-I'm a full stack software engineer and passionate computer scientist with a breadth of expertise that includes machine learning, embedded software, functional programming, web development and hardware hacking. 
+My background (BSc in CS) is in software engineering and scientific computing, where I am most interested in language theory, systems programming, automata, & data structures. I love idiomatic and opinionated languages, like Rust, Gleam, Haskell, APL, Go, Julia, and more. I have extensive experience with Python, Java, C, C++, and TypeScript, as well as with machine learning- SciKit, PyTorch, NumPy, and TensorFlow. I prefer working with PyTorch. 
+
+My more disparate academic interests include neuromorphic computing, hardware acceleration (particularly FPGA), abstract math (topology, graph theory for q. routing, sheaf theory for q. networking, matrix theory, markov chains), photonic ICs, semiconductor applications of 2D materials, ...
+
+_My non-academic interests include:_
+
+Philosophy (my undergrad minor), particularly Παρμενίδης -> Πλάτων -> Eπίκουρος, though I do not enjoy the aristotelians or the stoics. I also enjoy the works of Plutarch and Lucan. Contemporarily, I appreciate Kantian deontology, Hegel, Feuerbach, Stirner, Marx, and Engels, and their influences. Alexandra Kollontai and Rosa Luxembourg are my favorite writers on philosophy, political economy, and sociology. Lacan, Deleuze & Guattari, and moreso Baudrillard are post-structuralist guilty pleasures, while Fisher, Parenti, & Varoufakis are the best of the past few decades. Zizek is overrated. I am a _strong_ believer in a free & open source future, and libre software, hardware, and knowledge. 
+
+Languages, linguistics, and orthography. I have studied (to varying success) attic greek, polish (indepedently, not in classes), chinese, arabic, and ASL (in increasing order of familiarity). I love orthographies, natural and constructed; 𐑖𐑱𐑝𐑾𐑯, 조선글, sitelen pona, Gregg stenography, Tengwar, ᐊᓂᐦᔑᓈᐯᒧᐎᓐ, Stokoe notation, and მხედრული. I am fascinated by the history of scripts, stenography, typesetting, pens, and typewriters. I regularly read and write in an English constructed orthography, Shavian, which I have built several tools for. 
 
 ## Links & Projects
 ```
     _   _ __  _ _  __ __    __,           λ             ＿＿   
-   | | | |  \| | |/ /' _/  (_ /_          λ　　　  　　/ ＞　　フ
+   | | | |  \| | |/ /' _/  (_ /_          λ　　　  　　/ フ　　フ
    | |_| | | ' |   <`._`.  /`X\/ |        λ　　  　　　| 　_　 _l 
    |___|_|_|\__|_|\_\___/ `\_/\| |        λ　   　　　／` ミ＿☭ノ  
                                           λ　　 　   /　　　 　 | 
     ___ ___  __ __  ___ ________  __      λ　　  　 /　 ヽ　　 ﾉ  
    | _,\ _ \/__\_ \| __/ _/_   _/' _/     λ　   　 │　　|　|　|    
    | v_/ v / \/ |\ | _| \__ | | `._`.     λ  　／￣|　　 |　| |  
-   |_| |_|_\\__/___|___\__/ |_| |___/     λ　  | (￣ヽ＿ヽ)__)  
+   |_| |_|_\\__/___|___\__/ |_| |___/     λ　  | (￣ヽ＿ヽ)__)_) 
                                              　＼二つ          
 ```
 <a href="https://www.linkedin.com/in/mew13/"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/linkedin.svg" alt="M. Elijah Wangeman | LinkedIn" height="35px"/></a>
@@ -119,8 +128,6 @@ I'm a full stack software engineer and passionate computer scientist with a brea
 
 <!-- *[Brain](https://github.com/mindcat/brain)* -->
 <!-- > An exercise in exampling the syntax and functionality of several different languages. -->
-
-#### Interesting
 
 ```math
 y_k =  \varphi \left( \sum_{j=0}^{m} w_{kj} x_j \right)
