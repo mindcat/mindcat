@@ -15,7 +15,7 @@ an **electrical & computer engineering PhD student** researching *quantum compil
 
 My background (**BSc in CS**) is in software engineering and scientific computing, where I am most interested in *language theory, systems programming, automata, & data structures*. I love idiomatic and opinionated languages, like Rust, Gleam, Haskell, APL, Go, Zig, Julia, and more. I have extensive experience with Python, Java, C, C++, and TypeScript, as well as with machine learning- SciKit, PyTorch, NumPy, and TensorFlow. I prefer working with PyTorch. 
 
-My more disparate academic interests include neuromorphic computing, hardware acceleration (particularly FPGA), abstract math (topology, graph theory for q. routing, sheaf theory for q. networking, matrix theory, markov chains), photonic ICs, semiconductor applications of 2D materials, and more generally the VLSI design and fabrication.
+My more disparate academic interests include neuromorphic computing, hardware acceleration (particularly FPGA), abstract math (topology, graph theory for q. routing, sheaf theory for q. networking, matrix theory, markov chains), photonic ICs, semiconductor applications of 2D materials, and more generally VLSI design and fabrication.
 
 
 ## Links & Projects
