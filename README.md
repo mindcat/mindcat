@@ -11,39 +11,12 @@
                   /|                            አማርኛ), Kaleckian econometrics...
                  (/                        
 ```
+an **electrical & computer engineering PhD student** researching *quantum compilation, error correction, & routing*. Although most of my research involves superconducting quantum processors with static topologies, and the advancements necessary to transition from NISQ (noisy intermediate scale quantum) to FTQC (fault tolerant) and LS (large scale), I also have a healthy fascination in the future of novel qubits (neutral atom, topological, photonic, & cat) and quantum devices (QPICs and robust, multi-platform quantum architectures). 
 
-## Tools & Languages
-```
-     zzz   |\      _,,,--,,_         ______          __       \\
-        \  /,`.-'`'   ._  \-;;,_    /_  __/__  ___  / /__      λ\
-          |,☭-  ) )_   .;.(  `'-'    / / / _ \/ _ \/ (_-<     //\\
-         '---''(_/._)-'(_\_)        /_/  \___/\___/_/___/    //  \\
-```
-<a href="https://www.haskell.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/hask.png" alt="Haskell Website" height="40px"/></a>
-<a href="https://www.julialang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/julia.svg" alt="Julia Website" height="40px"/></a>
-<a href="https://www.rust-lang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/rust.svg" alt="Rust Website" height="40px"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/c.svg" alt="C Wikipedia" height="40px"/></a>
-<a href="https://www.latex-project.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/tex.svg" alt="LaTeX Website" height="40px"/></a>
-<a href="https://www.python.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/py.svg" alt="Python Website" height="40px"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/html.svg" alt="HTML5 Wikipedia" height="40px"/></a>
-<a href="https://www.google.com/search?q=why+I+should+use+anything+except+java+and+its+OOP+hell+that+perverts+the+art+of+programming"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/java.svg" alt="Java Website" height="40px"/></a>
-<a href="https://www.google.com/search?q=why+javascript+is+the+only+language+worse+than+java"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/js.svg" alt="JavaScript Website" height="40px"/></a>  
-  
-  
----
----
+My background (**BSc in CS**) is in software engineering and scientific computing, where I am most interested in *language theory, systems programming, automata, & data structures*. I love idiomatic and opinionated languages, like Rust, Gleam, Haskell, APL, Go, Zig, Julia, and more. I have extensive experience with Python, Java, C, C++, and TypeScript, as well as with machine learning- SciKit, PyTorch, NumPy, and TensorFlow. I prefer working with PyTorch. 
 
-I'm an electrical & computer engineering PhD student researching quantum compilation, error correction, & routing, who is especially interested in the future of qubits (neutral atom, topological, & cat) and quantum devices (QPICs, superconducting, and robust, possibly multi-platform, quantum architectures). 
+My more disparate academic interests include neuromorphic computing, hardware acceleration (particularly FPGA), abstract math (topology, graph theory for q. routing, sheaf theory for q. networking, matrix theory, markov chains), photonic ICs, semiconductor applications of 2D materials, and more generally the VLSI design and fabrication.
 
-My background (BSc in CS) is in software engineering and scientific computing, where I am most interested in language theory, systems programming, automata, & data structures. I love idiomatic and opinionated languages, like Rust, Gleam, Haskell, APL, Go, Julia, and more. I have extensive experience with Python, Java, C, C++, and TypeScript, as well as with machine learning- SciKit, PyTorch, NumPy, and TensorFlow. I prefer working with PyTorch. 
-
-My more disparate academic interests include neuromorphic computing, hardware acceleration (particularly FPGA), abstract math (topology, graph theory for q. routing, sheaf theory for q. networking, matrix theory, markov chains), photonic ICs, semiconductor applications of 2D materials, ...
-
-_My non-academic interests include:_
-
-Philosophy (my undergrad minor), particularly Παρμενίδης -> Πλάτων -> Επίκουρος: I do not enjoy the aristotelians or the stoics. I also enjoy the works of Plutarch and Lucan. Contemporarily, I appreciate Kantian deontology, Hegel, Feuerbach, Stirner, Marx, and Engels, and their influences. Alexandra Kollontai and Rosa Luxembourg are my favorite writers on philosophy, political economy, and sociology. Lacan, Deleuze & Guattari, and moreso Baudrillard are post-structuralist guilty pleasures, while Fisher, Parenti, & Varoufakis are the best of the past few decades. Zizek is overrated. I am a _strong_ believer in a free & open source future, and libre software, hardware, and knowledge. 
-
-Languages, linguistics, and orthography. I have studied (to varying success) attic greek, polish (independently, not through any classes), chinese, arabic, and ASL (in increasing order of familiarity). I love orthographies, natural and constructed; [𐑖𐑱𐑝𐑾𐑯](https://shavian.info/alphabet/), [조선글](https://en.wikipedia.org/wiki/Hangul), [sitelen pona](https://sona.pona.la/wiki/sitelen_pona), [ⰳⰾⰰⰳⱁⰾⰻⱌⰰ](https://en.wikipedia.org/wiki/Glagolitic_script), [Gregg stenography](https://greggshorthand.github.io/analphbt.html), [Tengwar](https://www.tecendil.com/tengwar-handbook/), [ᐊᓂᐦᔑᓈᐯᒧᐎᓐ](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics), [Stokoe notation](https://en.wikipedia.org/wiki/Stokoe_notation), [მხედრული](https://en.wikipedia.org/wiki/Georgian_scripts#Mkhedruli), and many more. I am fascinated by the history of scripts, stenography, typesetting, pens, and typewriters. I regularly read and write in an English constructed orthography, [Shavian](https://shavian.info/alphabet/), which I have built several tools for. 
 
 ## Links & Projects
 ```
@@ -64,28 +37,87 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 ---
 ---
 
-[Computer Science Resume](https://github.com/mindcat/media_repository/blob/main/profile/cs_resume.pdf)
-
-[Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
-
-10/13/25 - the below is a solid few years out of date. I have 3 projects I really need to clean up enough to add to the list, leaving this as a reminder to myself...
+*resume is being rebuilt in typst, come back later*
 
 ### Software
 
 *[Iota](https://github.com/mindcat/iota)* 
+> **COMPLETE** Developed an in-memory database inspired by Redis, with interoperability for redis-cli, support for strings and lists, and concurrency through async functions. Built a custom _ConcurrentHashMap_ for multi-threaded access and implemented database persistence via snapshotting and command logging. Achieved up to 99,502 `SET` requests per second in benchmarking without logging, surpassing Redis in some cases. Applied principles of test-driven development, async programming, and Rust language features like higher-ordered functions and trait-based code reusability. *Hesitant* plans to build out as a self-hostable, dockerizable backend to Vitri.
+
+*[Neuromorphic Dragonfly](https://github.com/mindcat/dragonfly-neuro)*
+> **COMPLETE** Dragonflies are uniquely effective, intelligent, and efficient at navigating a 3D environment to intercept a target. They reliably fly on an interception course unique across all observed pursuit predators. The dragonfly achieves this task with a brain of only 1 million neurons, seemingly computing trajectory prediction on as few as tens of thousands, through just 3 neural layers. The AKD1000 is a neuromorphic processor that can implement Spiking Neural Networks (SNN) on hardware. By modeling a dragonfly pursuit and training a Convolutional Neural Network (CNN) model to control the dragonfly purely from visual stimulus based on research from Dr. Chance, then converting that model to an Akida-compatible SNN, we evidence the potential of edge neuromorphic devices for spatial navigation and targeting.
+
+*[ShavianKey](https://github.com/mindcat/ShavianKey)* 
+> **IN DEV(β)** A native SwiftUI based Shavian (the phonemic English alphabet) keyboard. 𐑩 𐑯𐑱𐑑𐑦𐑝 ·𐑕𐑢𐑦𐑓𐑑⸰⁠⁠𐑿𐑦 𐑚𐑱𐑕𐑑 ·𐑖𐑱𐑝𐑾𐑯 (𐑞 𐑓𐑴𐑯𐑰𐑥𐑦𐑒 ·𐑦𐑙𐑜𐑤𐑦𐑖 𐑨𐑤𐑓𐑩𐑚𐑧𐑑) 𐑒𐑰𐑚𐑹𐑛. Local, native autocorrect, word prediction, and transliteration in progress, otherwise usable as a 'dumb' Shavian keyboard.
 
 *[Vitri](https://github.com/mindcat/bigredhacks?tab=readme-ov-file#project-description)*
-> Made for the Cornell hackathon, [BrickHack 9](https://devpost.com/software/best-ever-favorite-location-journal) with [@anhnlh](https://github.com/anhnlh). Gave us some solid experience in cross-platform mobile development, and we ended up liking the result (conceptually) so much we've continued building it out, with plans to release it for iOS and Android, even if we are the only ones who will use it!
+> **ON PAUSE(α)** Made for the Cornell hackathon, [BrickHack 9](https://devpost.com/software/best-ever-favorite-location-journal) with [@anhnlh](https://github.com/anhnlh). Gave us some solid experience in cross-platform mobile development, and we ended up liking the result (conceptually) so much we've continued building it out, with plans to release it for iOS and Android, even if we are the only ones who will use it!
 
-### Hardware
+*[wit-stitch](https://github.com/mindcat/wit-stitch)*
+> **COMPLETE** (Python) **IN DEV** (Go re-write) Web Image Tiling STITCHer: CLI tool to grab all the most detailed tiles of some online image (originally for high definition scans of maps behind a paywall) and reconstruct them into a single PNG. Originally made with Python, using PIL and wget, being rewritten in Go with http and img for concurrency.
+
+*[shavian-comics](https://github.com/mindcat/shavian-comics)*
+> **IN DEV(α)** Convert comics with speech bubbles (primarily Calvin & Hobbes) from English (Latin orthography) to Shavian (phonemic neography).
+
+*[zbf](https://github.com/mindcat/zbf)*
+> **IN DEV(<α)** Zig compiler for BrainF*ck, loosely inspired by [this Rust project](https://github.com/soirihiroka/bf-jit-rs).
+
+## Tools & Languages
+```
+     zzz   |\      _,,,--,,_         ______          __       \\
+        \  /,`.-'`'   ._  \-;;,_    /_  __/__  ___  / /__      λ\
+          |,☭-  ) )_   .;.(  `'-'    / / / _ \/ _ \/ (_-<     //\\
+         '---''(_/._)-'(_\_)        /_/  \___/\___/_/___/    //  \\
+```
+<a href="https://www.haskell.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/hask.png" alt="Haskell Website" height="40px"/></a>
+<a href="https://www.julialang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/julia.svg" alt="Julia Website" height="40px"/></a>
+<a href="https://www.rust-lang.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/rust.svg" alt="Rust Website" height="40px"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/c.svg" alt="C Wikipedia" height="40px"/></a>
+<a href="https://www.latex-project.org"><img align="left" src="https://raw.githubusercontent.com/mindcat/media_repository/main/profile/tex.svg" alt="LaTeX Website" height="40px"/></a>
+  
+---
+---
+
+### My non-research interests include:
+
+Philosophy (my undergrad minor), particularly Παρμενίδης -> Πλάτων -> Επίκουρος: I do not enjoy the aristotelians or the stoics. I also enjoy the works of Plutarch and Lucan. Contemporarily, I appreciate Kantian deontology, Hegel, Feuerbach, Stirner, Marx, and Engels, and their influences. Alexandra Kollontai and Rosa Luxembourg are my favorite writers on philosophy, political economy, and sociology. Lacan, Deleuze & Guattari, and moreso Baudrillard are post-structuralist guilty pleasures, while Fisher, Parenti, & Varoufakis are the best of the past few decades. Zizek is overrated. I am a _strong_ believer in a free & open source future, and libre software, hardware, and knowledge. 
+
+Languages, linguistics, and orthography. I have studied (to varying success) attic greek, polish (independently, not through any classes), chinese, arabic, and ASL (in increasing order of familiarity). I love orthographies, natural and constructed; [𐑖𐑱𐑝𐑾𐑯](https://shavian.info/alphabet/), [조선글](https://en.wikipedia.org/wiki/Hangul), [sitelen pona](https://sona.pona.la/wiki/sitelen_pona), [ⰳⰾⰰⰳⱁⰾⰻⱌⰰ](https://en.wikipedia.org/wiki/Glagolitic_script), [Gregg stenography](https://greggshorthand.github.io/analphbt.html), [Tengwar](https://www.tecendil.com/tengwar-handbook/), [ᐊᓂᐦᔑᓈᐯᒧᐎᓐ](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics), [Stokoe notation](https://en.wikipedia.org/wiki/Stokoe_notation), [მხედრული](https://en.wikipedia.org/wiki/Georgian_scripts#Mkhedruli), and many more. I am fascinated by the history of scripts, stenography, typesetting, pens, and typewriters. I regularly read and write in an English constructed orthography, [Shavian](https://shavian.info/alphabet/), which I have built several tools for. 
+
+### my own tools & builds
+
+*[sona ku pona](https://github.com/mindcat/tp-cheatsheet)*
+> **IN DEV(β)** Wanted to take two very useful and clever cheatsheets ([an accessible summary of pu with a lot of history and adaptations](https://github.com/zhukant/toki-pona-cheatsheet-suko) and [a well organized and _pretty_ categorization of ku](https://tenpi.li/tokipona/catdict)) and replicate them, programmatically, in [Typst](https://github.com/typst/typst), with the aid of [penpo](https://github.com/mindcat/penpo.typ). In the process, I forked both jan Tenpi's amazing [yatpid (yet another toki pona dictionary) dataset](https://github.com/mindcat/tp-dataset) (adding word origins and the iso for the given word origin country, and some uncommon words I'm partial to, like jasima) and [flagada](https://github.com/mindcat/flagada) (adding yugoslavian and esperanto flags), a great native flag displaying package for Typst. Script to autogenerate print, digital, and translations in progress.
 
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
 > A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
 
-##### Complete
+### you should know about / contribute to
 
+*[Typst on iOS](https://github.com/iXORTech/Typstify)*
 
-### Deprecated
+#### Websites & Posts
+
+[xxiivv](https://wiki.xxiivv.com/site/about.html)
+<details>
+    will link to specific pages I want to highlight... there are many
+</details>
+
+[learn apl](https://xpqz.github.io/learnapl/intro.html)
+
+[incredible rust optimization write-up](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
+
+[BQN birdwatchers](https://mlochbaum.github.io/BQN/doc/birds.html)
+
+[babysteps rust blog](https://smallcultfollowing.com/babysteps/blog/)
+
+#### Programming Languages
+
+*[Brujin](https://github.com/marvinborner/bruijn)*
+
+*[Uiua](https://github.com/uiua-lang/uiua)*
+
+### Deprecated Repos
 
 
 *[Stellarly](https://github.com/mindcat/brickhack9)*
