@@ -11,7 +11,7 @@
                   /|                            አማርኛ), Kaleckian econometrics...
                  (/                        
 ```
-an **electrical & computer engineering PhD student** researching *quantum compilation, error correction, & routing*. Although most of my research involves superconducting quantum processors with static topologies, and the advancements necessary to transition from NISQ (noisy intermediate scale quantum) to FTQC (fault tolerant) and LS (large scale), I also have a healthy fascination in the future of novel qubits (neutral atom, topological, photonic, & cat) and quantum devices (QPICs and robust, multi-platform quantum architectures). 
+an **electrical & computer engineering PhD student** researching *quantum compilation, error correction, & routing*. Although most of my research involves superconducting quantum processors with static topologies, and the advancements necessary to transition from NISQ (noisy intermediate scale quantum) to FTQC (fault tolerant) and LS (large scale), I also have a healthy fascination in the future of novel qubits (neutral atom, topological, photonic, & cat) and quantum devices (QPICs and robust, multi-platform quantum architectures).
 
 My background (**BSc in CS**) is in software engineering and scientific computing, where I am most interested in *language theory, systems programming, automata, & data structures*. I love idiomatic and opinionated languages, like Rust, Gleam, Haskell, APL, Go, Zig, Julia, and more. I have extensive experience with Python, Java, C, C++, and TypeScript, as well as with machine learning- SciKit, PyTorch, NumPy, and TensorFlow. I prefer working with PyTorch. 
 
@@ -99,13 +99,28 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 
 ### you should know about / contribute to
 
-*[Typst on iOS](https://github.com/iXORTech/Typstify)*
+*[Typst on iOS](https://github.com/mindcat/Typstify/tree/icon-only)*
+> I made a liquid glass app icon, working on pencil support.
+
+*[Monkeytype](https://github.com/mindcat/monkeytype/tree/master)*
+> My (embarassingly slow) attempt at building out Shavian support for the best open source typing website.
 
 #### Websites & Posts
 
 [xxiivv](https://wiki.xxiivv.com/site/about.html)
 <details>
-    will link to specific pages I want to highlight... there are many
+    <summary>fav xxiivv posts</summary>
+
+- [combinatory forest](https://wiki.xxiivv.com/site/logic.html)
+
+- [fractran & more](https://wiki.xxiivv.com/site/rewriting.html)
+
+- [solresol](https://wiki.xxiivv.com/site/solresol.html)
+
+- [lost words](https://wiki.xxiivv.com/site/english.html)
+
+- 
+    
 </details>
 
 [learn apl](https://xpqz.github.io/learnapl/intro.html)
