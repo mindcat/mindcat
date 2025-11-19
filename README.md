@@ -92,6 +92,8 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 *[arabic letters print-out](https://github.com/mindcat/arabic/blob/main/abjad.pdf)*
 > v1: letters, harakat, & 0-9.
 
+*[homemade wallpapers](https://github.com/mindcat/wallpapers)*
+
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
 > A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
 
