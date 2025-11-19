@@ -89,6 +89,9 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 *[sona ku pona](https://github.com/mindcat/tp-cheatsheet)*
 > **IN DEV(β)** Wanted to take two very useful and clever cheatsheets ([an accessible summary of pu with a lot of history and adaptations](https://github.com/zhukant/toki-pona-cheatsheet-suko) and [a well organized and _pretty_ categorization of ku](https://tenpi.li/tokipona/catdict)) and replicate them, programmatically, in [Typst](https://github.com/typst/typst), with the aid of [penpo](https://github.com/mindcat/penpo.typ). In the process, I forked both jan Tenpi's amazing [yatpid (yet another toki pona dictionary) dataset](https://github.com/mindcat/tp-dataset) (adding word origins and the iso for the given word origin country, and some uncommon words I'm partial to, like jasima) and [flagada](https://github.com/mindcat/flagada) (adding yugoslavian and esperanto flags), a great native flag displaying package for Typst. Script to autogenerate print, digital, and translations in progress.
 
+*[arabic letters print-out](https://github.com/mindcat/arabic/blob/main/abjad.pdf)*
+> v1: letters, harakat, & 0-9.
+
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
 > A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
 
