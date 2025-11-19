@@ -43,7 +43,7 @@ _My non-academic interests include:_
 
 Philosophy (my undergrad minor), particularly Παρμενίδης -> Πλάτων -> Επίκουρος: I do not enjoy the aristotelians or the stoics. I also enjoy the works of Plutarch and Lucan. Contemporarily, I appreciate Kantian deontology, Hegel, Feuerbach, Stirner, Marx, and Engels, and their influences. Alexandra Kollontai and Rosa Luxembourg are my favorite writers on philosophy, political economy, and sociology. Lacan, Deleuze & Guattari, and moreso Baudrillard are post-structuralist guilty pleasures, while Fisher, Parenti, & Varoufakis are the best of the past few decades. Zizek is overrated. I am a _strong_ believer in a free & open source future, and libre software, hardware, and knowledge. 
 
-Languages, linguistics, and orthography. I have studied (to varying success) attic greek, polish (indepedently, not in classes), chinese, arabic, and ASL (in increasing order of familiarity). I love orthographies, natural and constructed; 𐑖𐑱𐑝𐑾𐑯, 조선글, sitelen pona, Gregg stenography, Tengwar, ᐊᓂᐦᔑᓈᐯᒧᐎᓐ, Stokoe notation, and მხედრული. I am fascinated by the history of scripts, stenography, typesetting, pens, and typewriters. I regularly read and write in an English constructed orthography, Shavian, which I have built several tools for. 
+Languages, linguistics, and orthography. I have studied (to varying success) attic greek, polish (independently, not through any classes), chinese, arabic, and ASL (in increasing order of familiarity). I love orthographies, natural and constructed; [𐑖𐑱𐑝𐑾𐑯](https://shavian.info/alphabet/), [조선글](https://en.wikipedia.org/wiki/Hangul), [sitelen pona](https://sona.pona.la/wiki/sitelen_pona), [ⰳⰾⰰⰳⱁⰾⰻⱌⰰ](https://en.wikipedia.org/wiki/Glagolitic_script), [Gregg stenography](https://greggshorthand.github.io/analphbt.html), [Tengwar](https://www.tecendil.com/tengwar-handbook/), [ᐊᓂᐦᔑᓈᐯᒧᐎᓐ](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics), [Stokoe notation](https://en.wikipedia.org/wiki/Stokoe_notation), [მხედრული](https://en.wikipedia.org/wiki/Georgian_scripts#Mkhedruli), and many more. I am fascinated by the history of scripts, stenography, typesetting, pens, and typewriters. I regularly read and write in an English constructed orthography, [Shavian](https://shavian.info/alphabet/), which I have built several tools for. 
 
 ## Links & Projects
 ```
@@ -68,32 +68,31 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 
 [Software Engineering Resume](https://github.com/mindcat/media_repository/blob/main/profile/swen_resume.pdf)
 
-<!-- #### Philosophy
-[Main Article](https://github.com/mindcat/mindcat/blob/main/philosophy.md) -->
-
-<!-- #### Projects
-[Main Article](https://github.com/mindcat/mindcat/blob/main/projects.md) -->
-
 10/13/25 - the below is a solid few years out of date. I have 3 projects I really need to clean up enough to add to the list, leaving this as a reminder to myself...
 
+### Software
 
-##### Complete
+*[Iota](https://github.com/mindcat/iota)* 
+
+*[Vitri](https://github.com/mindcat/bigredhacks?tab=readme-ov-file#project-description)*
+> Made for the Cornell hackathon, [BrickHack 9](https://devpost.com/software/best-ever-favorite-location-journal) with [@anhnlh](https://github.com/anhnlh). Gave us some solid experience in cross-platform mobile development, and we ended up liking the result (conceptually) so much we've continued building it out, with plans to release it for iOS and Android, even if we are the only ones who will use it!
+
+### Hardware
 
 *[Space Race Keyboard](https://github.com/mindcat/SpaceRaceSweep)*
 > A custom modification of the [Ferris Sweep's](https://github.com/davidphilipbarr/Sweep) 34 key split keyboard. I altered the PCB to fit my hands and designed svg's to add a design by altering the solder mask and screen print. It uses Elite-C v4 USB-C microcontrollers, jade choc mini switches, and the layout I programmed is colemak-dh with support for stenography, a numpad & coding symbols layer, and extensive macros. 
 
-##### In Progress
+##### Complete
 
-*[Vitri](https://github.com/mindcat/bigredhacks?tab=readme-ov-file#project-description)*
-> Made for the Cornell hackathon, [BrickHack 9](https://devpost.com/software/best-ever-favorite-location-journal) with [@anhnlh](https://github.com/anhnlh). Gave us some solid experience in cross-platform mobile development, and we ended up liking the result (conceptually) so much we've continued building it out, with plans to release it for iOS and Android, if only so we can be the only ones to use it!
+
+### Deprecated
+
 
 *[Stellarly](https://github.com/mindcat/brickhack9)*
 > Made for the RIT hackathon, [BrickHack 9](https://brickhack9.devpost.com) with [@anhnlh](https://github.com/anhnlh). Plan to refactor math currently in the frontend js into the much faster, more clear syntax of the julia backend. *abandoned*
 
 <!-- *[FizzBuzz](https://github.com/mindcat/fizzbuzz)*
 > An exercise in demonstrating the syntax and functionality of several different languages. -->
-
-##### Planned
 
 <!-- *[Chess PCB](https://github.com/mindcat/pccb)*
 > "Printed Chess Circuit Board" -- microcontroller powered chess algorithm (rust) on a custom chess board pcb. Practice with embedded Rust and the pecularities required with addressing IO and safely utilizing unsafe Rust at the firmware level. 
@@ -124,7 +123,6 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 
 *[](https://github.com/mindcat/)*
 > "" -- -->
-
 
 <!-- *[Brain](https://github.com/mindcat/brain)* -->
 <!-- > An exercise in exampling the syntax and functionality of several different languages. -->
