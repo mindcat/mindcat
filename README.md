@@ -113,13 +113,13 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 
 - [combinatory forest](https://wiki.xxiivv.com/site/logic.html)
 
-- [fractran & more](https://wiki.xxiivv.com/site/rewriting.html)
+- [fractran & more](https://wiki.xxiivv.com/site/rewriting.html)- also check out concat & neural prog langs
 
 - [solresol](https://wiki.xxiivv.com/site/solresol.html)
 
 - [lost words](https://wiki.xxiivv.com/site/english.html)
 
-- 
+- [time](https://wiki.xxiivv.com/site/time.html)
     
 </details>
 
@@ -136,6 +136,8 @@ Languages, linguistics, and orthography. I have studied (to varying success) att
 *[Brujin](https://github.com/marvinborner/bruijn)*
 
 *[Uiua](https://github.com/uiua-lang/uiua)*
+
+*[uxntal](https://wiki.xxiivv.com/site/uxntal.html)*
 
 ### Deprecated Repos
 
